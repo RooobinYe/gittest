@@ -1,1 +1,2 @@
-print("Good")
+print("Goodmorning!")
+print("I love dogs!")
